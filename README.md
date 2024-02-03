@@ -6,6 +6,6 @@ The user is prompted to enter their given number in a displayed dialogue box.
 The computer then tells if the entered number matches the guesses number or it is higher/lower than the generated number.
 The game continues under the user guessing the number.
 including:
-1)Limiting the number of attempts. (i.e. total attempts = 6)
-2)Displaying score.
-Giving points based on the number of attempts.
+1)Limiting the number of attempts. (i.e. total attempts = 8)
+
+2)Displaying score, Giving points based on the number of attempts(per attempts decreasing score by 12.5).
